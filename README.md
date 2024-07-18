@@ -1,4 +1,4 @@
-# Financial Modelling
+# Stock Forecast and Portfolio/Risk Assessment 
 
 ### Outline of the project:
 In this project, I analyzed the stock for JP Morgan and Chase (tests for stationarity/data visualization). 
