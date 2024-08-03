@@ -1,4 +1,4 @@
-# Stock Forecast and Portfolio/Risk Assessment 
+# Stock Forecast and Portfolio/Risk Assessment: JP Morgan (JPM)
 
 ### Outline of the project:
 In this project, I analyzed the stock for JP Morgan and Chase (tests for stationarity/data visualization). 
